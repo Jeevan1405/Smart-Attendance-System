@@ -1,4 +1,4 @@
-# 🔮 AURA ATTEND - AI-Powered Facial Recognition Attendance System
+# 🔮 AURA ATTEND - AI-Powered User Recognition for Attendance
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 Here is a preview of the application's user interface:
 
 ![AURA Attend Interface](assets/app_screenshot.png) 
-*(Please replace `assets/app_screenshot.png` with a real screenshot of your application)*
+
 
 ## 📋 Table of Contents
 
